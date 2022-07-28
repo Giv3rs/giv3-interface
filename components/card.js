@@ -13,7 +13,7 @@ const Card = (props) => {
             <div className="px-6 pt-4 pb-2">
                 <span className="text-[#FAAA39]">Company ZYX</span>
             </div>
-            <div className="px-6 pt-4 pb-2">
+            <div className="px-6 pt-4 pb-6">
                 <a href="../dao">
                     <button className="bg-[#FAAA39] rounded-md py-2 px-3" disabled={props.status}>Join</button>
                 </a>   
